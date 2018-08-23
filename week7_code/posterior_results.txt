@@ -1,0 +1,1302 @@
+-------posterior results----------
+Sequence:1Position	probability
+62	0.18431149062292254
+Position	probability
+63	0.12004498402414031
+Position	probability
+64	0.07818719354203876
+Position	probability
+61	0.07074582468354602
+Position	probability
+58	0.06401267884700346
+summed probability
+0.5173021717196511
+------------------
+Sequence:2Position	probability
+13	0.2021379294655473
+Position	probability
+14	0.1316556251124288
+Position	probability
+15	0.08574938740875297
+Position	probability
+12	0.07758829615849289
+Position	probability
+9	0.07020392661328226
+summed probability
+0.5673351647585042
+------------------
+Sequence:3Position	probability
+70	0.20013591909366762
+Position	probability
+71	0.13035168414653353
+Position	probability
+75	0.09383029129150654
+Position	probability
+72	0.0849001100691238
+Position	probability
+69	0.07681984773292293
+summed probability
+0.5860378523337545
+------------------
+Sequence:4Position	probability
+90	0.1250705919949586
+Position	probability
+91	0.0814604513651375
+Position	probability
+88	0.07370755426618517
+Position	probability
+85	0.06669252950183993
+Position	probability
+92	0.05305647819176719
+summed probability
+0.3999876053198883
+------------------
+Sequence:5Position	probability
+113	0.21358122019817033
+Position	probability
+114	0.1391088210501241
+Position	probability
+111	0.1258693120971974
+Position	probability
+115	0.09060377160501501
+Position	probability
+112	0.08198067037909568
+summed probability
+0.6511437953296024
+------------------
+Sequence:6Position	probability
+155	0.2141312552461757
+Position	probability
+152	0.19375157946765942
+Position	probability
+156	0.13946706756165395
+Position	probability
+153	0.12619346294275188
+Position	probability
+157	0.09083710321449827
+summed probability
+0.7643804684327392
+------------------
+Sequence:7Position	probability
+33	0.3211704167793845
+Position	probability
+34	0.209183363560257
+Position	probability
+35	0.13624442758200944
+Position	probability
+32	0.12327753371329908
+Position	probability
+36	0.08873814691196669
+summed probability
+0.8786138885469168
+------------------
+Sequence:8Position	probability
+72	0.08826853272232708
+Position	probability
+69	0.07986768495137324
+Position	probability
+50	0.06729311337191814
+Position	probability
+73	0.057490689075726194
+Position	probability
+70	0.052019084277539145
+summed probability
+0.3449391043988838
+------------------
+Sequence:9Position	probability
+35	0.09487716043707212
+Position	probability
+48	0.09219185002100462
+Position	probability
+32	0.08584734474636
+Position	probability
+39	0.06829487213002933
+Position	probability
+36	0.06179499265309303
+summed probability
+0.40300621998755903
+------------------
+Sequence:10Position	probability
+45	0.15299819444376994
+Position	probability
+46	0.09965013980219227
+Position	probability
+40	0.08158461900524684
+Position	probability
+47	0.06490370947642786
+Position	probability
+44	0.05872657968548745
+summed probability
+0.45786324241312437
+------------------
+Sequence:11Position	probability
+77	0.22415503238651094
+Position	probability
+78	0.1459957118833196
+Position	probability
+75	0.13210075166457372
+Position	probability
+79	0.09508931234505685
+Position	probability
+76	0.08603930536047896
+summed probability
+0.6833801136399401
+------------------
+Sequence:12Position	probability
+225	0.18255634128547088
+Position	probability
+226	0.11890182754777377
+Position	probability
+220	0.09734617852788278
+Position	probability
+227	0.07744263767914213
+Position	probability
+224	0.07007213099846359
+summed probability
+0.5463191160387332
+------------------
+Sequence:13Position	probability
+84	0.16124729377115235
+Position	probability
+85	0.10502290844305318
+Position	probability
+82	0.09502748381003735
+Position	probability
+76	0.07780000185708323
+Position	probability
+86	0.06840307852540965
+summed probability
+0.5075007664067357
+------------------
+Sequence:14Position	probability
+10	0.3296240841801148
+Position	probability
+11	0.21468937061731158
+Position	probability
+12	0.13983057691522266
+Position	probability
+9	0.12652237574590264
+Position	probability
+8	0.0485641442257
+summed probability
+0.8592305516842517
+------------------
+Sequence:15Position	probability
+319	0.25206163378621965
+Position	probability
+313	0.20636551437970369
+Position	probability
+314	0.13440911791835966
+Position	probability
+318	0.09675093014016513
+Position	probability
+315	0.08754278074945793
+summed probability
+0.777129976973906
+------------------
+Sequence:16Position	probability
+428	0.38366034597913784
+Position	probability
+429	0.24988404113114898
+Position	probability
+427	0.14726356714350744
+Position	probability
+426	0.05652540961063923
+Position	probability
+424	0.03331198509448548
+summed probability
+0.870645348958919
+------------------
+Sequence:17Position	probability
+201	0.14528710239540604
+Position	probability
+202	0.09462778379700787
+Position	probability
+196	0.0774727632466394
+Position	probability
+203	0.06163256970989328
+Position	probability
+187	0.057391108414505135
+summed probability
+0.4364113275634517
+------------------
+Sequence:18Position	probability
+82	0.1439901368210197
+Position	probability
+83	0.09378304964000622
+Position	probability
+71	0.0628615529699042
+Position	probability
+84	0.06108238101553037
+Position	probability
+68	0.056878782883454826
+summed probability
+0.4185959033299153
+------------------
+Sequence:19Position	probability
+39	0.16425052377572694
+Position	probability
+40	0.10697895956445372
+Position	probability
+37	0.09679737019983663
+Position	probability
+34	0.08758480093423467
+Position	probability
+31	0.07924902648545779
+summed probability
+0.5348606809597097
+------------------
+Sequence:20Position	probability
+98	0.06561873901863445
+Position	probability
+95	0.059373557180712515
+Position	probability
+92	0.05372275275345117
+Position	probability
+115	0.04589708991127836
+Position	probability
+99	0.042738520808189545
+summed probability
+0.267350659672266
+------------------
+Sequence:21Position	probability
+20	0.1450316178607936
+Position	probability
+17	0.1312284140910374
+Position	probability
+21	0.09446138268564847
+Position	probability
+18	0.08547113812508354
+Position	probability
+22	0.06152419003867893
+summed probability
+0.5177167428012419
+------------------
+Sequence:22Position	probability
+17	0.09898923051421443
+Position	probability
+24	0.07874974887333276
+Position	probability
+21	0.07125483951116124
+Position	probability
+18	0.06447324882175808
+Position	probability
+31	0.06264846100326502
+summed probability
+0.37611552872373155
+------------------
+Sequence:23Position	probability
+24	0.16035202936535634
+Position	probability
+18	0.13128189532357232
+Position	probability
+25	0.10443980859980444
+Position	probability
+19	0.08550597129627409
+Position	probability
+26	0.06802329639066211
+summed probability
+0.5496030009756693
+------------------
+Sequence:24Position	probability
+66	0.1802752012983668
+Position	probability
+67	0.11741608505617308
+Position	probability
+64	0.10624115525960276
+Position	probability
+68	0.07647495013527063
+Position	probability
+65	0.06919654191250443
+summed probability
+0.5496039336619177
+------------------
+Sequence:25Position	probability
+24	0.1137936806673753
+Position	probability
+34	0.1000493301874798
+Position	probability
+25	0.07411562096098784
+Position	probability
+35	0.0651637084773717
+Position	probability
+26	0.048272674178538144
+summed probability
+0.40139501447175274
+------------------
+Sequence:26Position	probability
+147	0.1355317428821305
+Position	probability
+151	0.09755902270952026
+Position	probability
+148	0.08827396411401921
+Position	probability
+145	0.07987259941711924
+Position	probability
+155	0.07022534138230711
+summed probability
+0.4714626705050963
+------------------
+Sequence:27Position	probability
+87	0.17663539668515144
+Position	probability
+88	0.11504542284098677
+Position	probability
+85	0.10409611787097588
+Position	probability
+82	0.09418889937746923
+Position	probability
+89	0.07493090040301112
+summed probability
+0.5648967371775945
+------------------
+Sequence:28Position	probability
+323	0.19706292629004815
+Position	probability
+324	0.12835019541259712
+Position	probability
+325	0.08359650885425732
+Position	probability
+322	0.07564031514163463
+Position	probability
+319	0.06844134226586691
+summed probability
+0.5530912879644041
+------------------
+Sequence:29Position	probability
+36	0.16185676379141317
+Position	probability
+37	0.1054198658904599
+Position	probability
+34	0.0953866613263139
+Position	probability
+44	0.08386556721381963
+Position	probability
+41	0.07588376620660989
+summed probability
+0.5224126244286165
+------------------
+Sequence:30Position	probability
+9	0.1959437526065591
+Position	probability
+10	0.12762125992137732
+Position	probability
+7	0.11547506530512043
+Position	probability
+11	0.0831217416593181
+Position	probability
+8	0.07521073332372975
+summed probability
+0.5973725528161047
+------------------
+Sequence:31Position	probability
+137	0.09325042728700905
+Position	probability
+131	0.07634510696511579
+Position	probability
+99	0.06619876414638826
+Position	probability
+138	0.060735475667196705
+Position	probability
+135	0.05495505234259405
+summed probability
+0.35148482640830386
+------------------
+Sequence:32Position	probability
+105	0.21231121402560227
+Position	probability
+106	0.13828164597720147
+Position	probability
+110	0.0995384693896557
+Position	probability
+107	0.09006501941936146
+Position	probability
+104	0.0814931932623524
+summed probability
+0.6216895420741733
+------------------
+Sequence:33Position	probability
+42	0.1990098838928173
+Position	probability
+43	0.1296182796407165
+Position	probability
+47	0.0933023690105949
+Position	probability
+44	0.08442243213441404
+Position	probability
+41	0.0763876322012834
+summed probability
+0.5827405968798262
+------------------
+Sequence:34Position	probability
+59	0.17972607859980863
+Position	probability
+60	0.11705843277224377
+Position	probability
+57	0.10591754208677634
+Position	probability
+54	0.09583697180989514
+Position	probability
+58	0.0689857675433609
+summed probability
+0.5675247928120848
+------------------
+Sequence:35Position	probability
+255	0.1044344617099825
+Position	probability
+256	0.0680198138768965
+Position	probability
+237	0.05731060127186103
+Position	probability
+260	0.04896230525482616
+Position	probability
+244	0.04559279261485606
+summed probability
+0.3243199747284222
+------------------
+Sequence:36Position	probability
+89	0.22427611103890338
+Position	probability
+90	0.146074572321391
+Position	probability
+91	0.09514067539353757
+Position	probability
+88	0.08608577999473059
+Position	probability
+92	0.06196662410500145
+summed probability
+0.6135437628535639
+------------------
+Sequence:37Position	probability
+110	0.11378482782284478
+Position	probability
+111	0.07410985496356337
+Position	probability
+105	0.060674518808887884
+Position	probability
+118	0.05895724653180009
+Position	probability
+112	0.04826891869337351
+summed probability
+0.35579536682046964
+------------------
+Sequence:38Position	probability
+80	0.13808881683812962
+Position	probability
+81	0.0899394267564134
+Position	probability
+78	0.08137955372482776
+Position	probability
+88	0.07155028111731826
+Position	probability
+82	0.05857896874266399
+summed probability
+0.43953704717935305
+------------------
+Sequence:39Position	probability
+59	0.22827603033715313
+Position	probability
+56	0.20655014318943363
+Position	probability
+60	0.14867978291696157
+Position	probability
+57	0.1345293695773285
+Position	probability
+58	0.08762110255365475
+summed probability
+0.8056564285745316
+------------------
+Sequence:40Position	probability
+188	0.23335978812889027
+Position	probability
+189	0.15199091463657985
+Position	probability
+186	0.1375253684555117
+Position	probability
+190	0.09899408255935133
+Position	probability
+187	0.0895724439282609
+summed probability
+0.711442597708594
+------------------
+Sequence:41Position	probability
+50	0.18436563763937971
+Position	probability
+54	0.1327108398875825
+Position	probability
+51	0.1200802508309118
+Position	probability
+55	0.08643666545309651
+Position	probability
+52	0.07821016337013333
+summed probability
+0.6018035571811038
+------------------
+Sequence:42Position	probability
+35	0.18648879546580108
+Position	probability
+36	0.12146309704680468
+Position	probability
+30	0.09944311684290158
+Position	probability
+37	0.0791108329449583
+Position	probability
+34	0.07158155785556002
+summed probability
+0.5580874001560256
+------------------
+Sequence:43Position	probability
+268	0.22078619724384727
+Position	probability
+269	0.14380153636276896
+Position	probability
+270	0.09366021118364554
+Position	probability
+267	0.08474621712390097
+Position	probability
+261	0.06938262053534301
+summed probability
+0.6123767824495058
+------------------
+Sequence:44Position	probability
+71	0.5099235017295028
+Position	probability
+70	0.1957282127850617
+Position	probability
+68	0.11534804173518177
+Position	probability
+69	0.0751280008669934
+Position	probability
+67	0.044275005918554614
+summed probability
+0.9404027630352942
+------------------
+Sequence:45Position	probability
+151	0.2816482619056233
+Position	probability
+152	0.183441960056952
+Position	probability
+153	0.11947864503709377
+Position	probability
+150	0.10810741366074432
+Position	probability
+154	0.0778183280175808
+summed probability
+0.7704946086779942
+------------------
+Sequence:46Position	probability
+27	0.1566335961486409
+Position	probability
+24	0.14172618853146463
+Position	probability
+28	0.10201793433365426
+Position	probability
+25	0.09230850437246707
+Position	probability
+19	0.0755739447543275
+summed probability
+0.5682601681405544
+------------------
+Sequence:47Position	probability
+256	0.15929684797898205
+Position	probability
+253	0.1441359686826878
+Position	probability
+257	0.10375255230210015
+Position	probability
+254	0.093878032234119
+Position	probability
+251	0.0849433073269263
+summed probability
+0.5860067085248153
+------------------
+Sequence:48Position	probability
+4	0.21770313005966316
+Position	probability
+5	0.14179348602570166
+Position	probability
+2	0.12829846742420312
+Position	probability
+6	0.0923523362930557
+Position	probability
+3	0.0835628175986586
+summed probability
+0.6637102374012822
+------------------
+Sequence:49Position	probability
+301	0.23484461192368372
+Position	probability
+302	0.15295800381871505
+Position	probability
+299	0.1384004161280683
+Position	probability
+300	0.09014237629393923
+Position	probability
+298	0.05312339204915752
+summed probability
+0.6694688002135639
+------------------
+Sequence:50Position	probability
+23	0.07617229031895167
+Position	probability
+30	0.060597993363153545
+Position	probability
+24	0.04961221540510669
+Position	probability
+21	0.04489043453548261
+Position	probability
+31	0.03946842988784342
+summed probability
+0.27074136351053796
+------------------
+Sequence:51Position	probability
+160	0.1392497710184905
+Position	probability
+154	0.11400525415882541
+Position	probability
+161	0.09069557454493792
+Position	probability
+158	0.08206373608844009
+Position	probability
+155	0.07425342211660338
+summed probability
+0.5002677579272973
+------------------
+Sequence:52Position	probability
+161	0.12113947828365308
+Position	probability
+162	0.07890005493474772
+Position	probability
+156	0.0645963059773131
+Position	probability
+153	0.05844843293190449
+Position	probability
+166	0.056794165613702374
+summed probability
+0.37987843774132074
+------------------
+Sequence:53Position	probability
+337	0.5882795385862918
+Position	probability
+336	0.2258042673361524
+Position	probability
+335	0.0866723450381191
+Position	probability
+334	0.03326817284291441
+Position	probability
+333	0.012769601697280279
+summed probability
+0.9467939255007579
+------------------
+Sequence:54Position	probability
+59	0.2848695312207574
+Position	probability
+60	0.18554002362404592
+Position	probability
+58	0.10934386046857357
+Position	probability
+53	0.05830642138832572
+Position	probability
+50	0.05275718028228757
+summed probability
+0.6908170169839902
+------------------
+Sequence:55Position	probability
+36	0.23059512237249521
+Position	probability
+37	0.15019024417682253
+Position	probability
+34	0.13589607456622102
+Position	probability
+38	0.09782127745727255
+Position	probability
+35	0.08851125909247291
+summed probability
+0.7030139776652842
+------------------
+Sequence:56Position	probability
+69	0.21127606594756432
+Position	probability
+70	0.137607437689532
+Position	probability
+64	0.11266065856479344
+Position	probability
+68	0.0810958636970449
+Position	probability
+65	0.07337766577575362
+summed probability
+0.6160176916746883
+------------------
+Sequence:57Position	probability
+144	0.10794507295431491
+Position	probability
+141	0.0976715349499347
+Position	probability
+145	0.07030633041103407
+Position	probability
+142	0.06361501289502326
+Position	probability
+133	0.0471254147760993
+summed probability
+0.38666336598640627
+------------------
+Sequence:58Position	probability
+114	0.12214737161082408
+Position	probability
+111	0.11052214750346667
+Position	probability
+115	0.07955651177283936
+Position	probability
+112	0.07198481975554737
+Position	probability
+122	0.06329027199024242
+summed probability
+0.44750112263291986
+------------------
+Sequence:59Position	probability
+19	0.16062622837801402
+Position	probability
+20	0.1046183987462065
+Position	probability
+27	0.08322796920429557
+Position	probability
+21	0.06813961497285817
+Position	probability
+18	0.06165451190267204
+summed probability
+0.4782667232040463
+------------------
+Sequence:60Position	probability
+181	0.1467907547678389
+Position	probability
+178	0.13282012733181597
+Position	probability
+182	0.09560713632905297
+Position	probability
+179	0.086507846091117
+Position	probability
+176	0.07827456947949894
+summed probability
+0.5400004339993238
+------------------
+Sequence:61Position	probability
+293	0.18043298100128224
+Position	probability
+297	0.12988001863415438
+Position	probability
+294	0.11751884946794038
+Position	probability
+298	0.08459290687356108
+Position	probability
+295	0.07654188221925066
+summed probability
+0.5889666381961888
+------------------
+Sequence:62Position	probability
+62	0.19680979448490418
+Position	probability
+63	0.12818532667108887
+Position	probability
+54	0.0949585076333048
+Position	probability
+64	0.08348912723972236
+Position	probability
+61	0.07554315343865009
+summed probability
+0.5789859094676704
+------------------
+Sequence:63Position	probability
+52	0.08754989285552071
+Position	probability
+46	0.07167801938608723
+Position	probability
+43	0.06485615307864283
+Position	probability
+53	0.05702262758352994
+Position	probability
+21	0.04944426204202262
+summed probability
+0.33055095494580333
+------------------
+Sequence:64Position	probability
+227	0.21434805365525655
+Position	probability
+228	0.13960827178862106
+Position	probability
+225	0.1263212282331152
+Position	probability
+229	0.09092907175706239
+Position	probability
+226	0.08227501049393686
+summed probability
+0.653481635927992
+------------------
+Sequence:65Position	probability
+30	0.2623335208967104
+Position	probability
+31	0.1708619642682522
+Position	probability
+32	0.11128509514840111
+Position	probability
+29	0.10069367468762627
+Position	probability
+33	0.07248173960323495
+summed probability
+0.7176559946042249
+------------------
+Sequence:66Position	probability
+52	0.2534462769499643
+Position	probability
+53	0.165073561960832
+Position	probability
+54	0.1075150173297524
+Position	probability
+51	0.09728240933432973
+Position	probability
+55	0.07002622839240454
+summed probability
+0.693343493967283
+------------------
+Sequence:67Position	probability
+43	0.20196297154438983
+Position	probability
+44	0.13154167225588548
+Position	probability
+45	0.08567516811403068
+Position	probability
+42	0.0775211405927961
+Position	probability
+46	0.055801589758480506
+summed probability
+0.5525025422655826
+------------------
+Sequence:68Position	probability
+69	0.1456890586453344
+Position	probability
+63	0.11927716675969163
+Position	probability
+70	0.09488958424926386
+Position	probability
+64	0.07768710203427286
+Position	probability
+58	0.06360324866246152
+summed probability
+0.5011461603510242
+------------------
+Sequence:69Position	probability
+254	0.2168906336592637
+Position	probability
+255	0.14126429429123097
+Position	probability
+256	0.09200766536073594
+Position	probability
+253	0.08325095029345476
+Position	probability
+260	0.0662293402526698
+summed probability
+0.5996428838573552
+------------------
+Sequence:70Position	probability
+12	0.13276599001846653
+Position	probability
+6	0.1086969143647173
+Position	probability
+13	0.08647258560413282
+Position	probability
+10	0.07824266486548953
+Position	probability
+7	0.07079601659280929
+summed probability
+0.4769741714456155
+------------------
+Sequence:71Position	probability
+38	0.2181423608561418
+Position	probability
+39	0.14207956397867133
+Position	probability
+36	0.12855731826396033
+Position	probability
+40	0.09253866338084514
+Position	probability
+37	0.083731411237711
+summed probability
+0.6650493177173296
+------------------
+Sequence:72Position	probability
+298	0.18214281642477304
+Position	probability
+299	0.1186324922766614
+Position	probability
+296	0.10734179243643396
+Position	probability
+300	0.07726721536440447
+Position	probability
+297	0.06991340428425633
+summed probability
+0.5552977207865292
+------------------
+Sequence:73Position	probability
+60	0.32904879409586396
+Position	probability
+55	0.175461681741043
+Position	probability
+59	0.12630155732972556
+Position	probability
+56	0.11428096376554776
+Position	probability
+57	0.07443299613677125
+summed probability
+0.8195259930689516
+------------------
+Sequence:74Position	probability
+63	0.2834192116892312
+Position	probability
+64	0.18459540761338084
+Position	probability
+61	0.16702676938240993
+Position	probability
+65	0.12022990364292567
+Position	probability
+62	0.1087871721635433
+summed probability
+0.8640584644914908
+------------------
+Sequence:75Position	probability
+50	0.2533698631705392
+Position	probability
+51	0.1650237924597591
+Position	probability
+45	0.13510671697355894
+Position	probability
+49	0.09725307879273223
+Position	probability
+46	0.08799713802883115
+summed probability
+0.7387505894254206
+------------------
+Sequence:76Position	probability
+78	0.10421166563924414
+Position	probability
+79	0.06787470327819191
+Position	probability
+76	0.06141481284892095
+Position	probability
+83	0.04885785114028913
+Position	probability
+80	0.04420786595092763
+summed probability
+0.3265668988575738
+------------------
+Sequence:77Position	probability
+100	0.15763049672132662
+Position	probability
+91	0.11677121800813495
+Position	probability
+101	0.10266723141717984
+Position	probability
+98	0.0928960054139764
+Position	probability
+95	0.08405474368747305
+summed probability
+0.5540196952480909
+------------------
+Sequence:78Position	probability
+135	0.21139589990810057
+Position	probability
+136	0.13768548744014444
+Position	probability
+137	0.08967673195114671
+Position	probability
+134	0.08114186057078607
+Position	probability
+138	0.0584078714681811
+summed probability
+0.5783078513383588
+------------------
+Sequence:79Position	probability
+174	0.19803718446099663
+Position	probability
+175	0.12898474514235966
+Position	probability
+172	0.11670878251675508
+Position	probability
+179	0.09284633557371794
+Position	probability
+176	0.08400980111245794
+summed probability
+0.6205868488062872
+------------------
+Sequence:80Position	probability
+4	0.2322943348095615
+Position	probability
+5	0.15129696806675388
+Position	probability
+9	0.10890721265455015
+Position	probability
+6	0.09854210420137258
+Position	probability
+3	0.08916348204811453
+summed probability
+0.6802041017803526
+------------------
+Sequence:81Position	probability
+153	0.12067833882000933
+Position	probability
+150	0.10919292808062757
+Position	probability
+154	0.07859970752092714
+Position	probability
+151	0.07111907815777717
+Position	probability
+155	0.05119323055639333
+summed probability
+0.43078328313573455
+------------------
+Sequence:82Position	probability
+16	0.12277438289645962
+Position	probability
+13	0.11108948377017037
+Position	probability
+17	0.07996489412335199
+Position	probability
+14	0.07235433482399253
+Position	probability
+11	0.06546810103627222
+summed probability
+0.4516511966502468
+------------------
+Sequence:83Position	probability
+9	0.26308288166361754
+Position	probability
+10	0.17135003476775088
+Position	probability
+7	0.15504200841639168
+Position	probability
+11	0.11160298317110089
+Position	probability
+8	0.10098130811330772
+summed probability
+0.8020592161321687
+------------------
+Sequence:84Position	probability
+30	0.1593294238397507
+Position	probability
+31	0.1037737694745745
+Position	probability
+25	0.0849606780494975
+Position	probability
+22	0.0768746512311282
+Position	probability
+32	0.0675894945919926
+summed probability
+0.49252801718694345
+------------------
+Sequence:85Position	probability
+32	0.21263734664815415
+Position	probability
+33	0.13849406130373199
+Position	probability
+30	0.12531306134473405
+Position	probability
+34	0.090203368875457
+Position	probability
+31	0.08161837548110967
+summed probability
+0.6482662136531869
+------------------
+Sequence:86Position	probability
+76	0.2173419991050896
+Position	probability
+77	0.1415582757329202
+Position	probability
+81	0.10189706664481582
+Position	probability
+78	0.0921991401155204
+Position	probability
+75	0.08342420167670106
+summed probability
+0.6364206832750471
+------------------
+Sequence:87Position	probability
+21	0.10347643678815194
+Position	probability
+28	0.08231949444443992
+Position	probability
+22	0.06739583711859895
+Position	probability
+32	0.05925556077977808
+Position	probability
+29	0.05361598651315495
+summed probability
+0.36606331564412387
+------------------
+Sequence:88Position	probability
+226	0.15613080354192516
+Position	probability
+227	0.10169045757006967
+Position	probability
+231	0.07319924800235096
+Position	probability
+228	0.06623260065419014
+Position	probability
+225	0.059928995298920776
+summed probability
+0.45718210506745666
+------------------
+Sequence:89Position	probability
+27	0.14434165527621612
+Position	probability
+28	0.09401199916016707
+Position	probability
+25	0.08506452411748028
+Position	probability
+22	0.07696861387880442
+Position	probability
+29	0.06123149945300356
+summed probability
+0.46161829188567144
+------------------
+Sequence:90Position	probability
+118	0.12437659572292273
+Position	probability
+119	0.08100844063532465
+Position	probability
+107	0.054298899444559186
+Position	probability
+120	0.05276207646642855
+Position	probability
+117	0.0477405114896067
+summed probability
+0.36018652375884186
+------------------
+Sequence:91Position	probability
+53	0.10733135817153706
+Position	probability
+50	0.09711622970797384
+Position	probability
+60	0.08538623301075725
+Position	probability
+54	0.06990660828277741
+Position	probability
+51	0.06325333382295666
+summed probability
+0.4229937629960022
+------------------
+Sequence:92Position	probability
+158	0.20599636374129235
+Position	probability
+159	0.13416868427886805
+Position	probability
+156	0.12139934669622533
+Position	probability
+160	0.08738618252373642
+Position	probability
+157	0.07906931133504151
+summed probability
+0.6280198885751637
+------------------
+Sequence:93Position	probability
+153	0.0893516445110369
+Position	probability
+141	0.05989124000487369
+Position	probability
+154	0.058196136885477985
+Position	probability
+148	0.04764579020966373
+Position	probability
+132	0.04436687816666914
+summed probability
+0.2994516897777214
+------------------
+Sequence:94Position	probability
+156	0.13065074113222044
+Position	probability
+157	0.0850948906058541
+Position	probability
+141	0.07923878746689832
+Position	probability
+154	0.07699609027443172
+Position	probability
+158	0.05542364585512866
+summed probability
+0.42740415533453324
+------------------
+Sequence:95Position	probability
+10	0.1311522300340859
+Position	probability
+11	0.0854215182458849
+Position	probability
+8	0.07729163153523928
+Position	probability
+5	0.06993549667641254
+Position	probability
+2	0.06327947279967282
+summed probability
+0.42708034929129546
+------------------
+Sequence:96Position	probability
+103	0.14367468975771233
+Position	probability
+104	0.09357759398693107
+Position	probability
+114	0.08227500458760174
+Position	probability
+105	0.060948564504645884
+Position	probability
+102	0.055147860715081515
+summed probability
+0.4356237135519725
+------------------
+Sequence:97Position	probability
+39	0.27427989057970575
+Position	probability
+40	0.17864282346967678
+Position	probability
+41	0.1163528916019605
+Position	probability
+38	0.10527914991948302
+Position	probability
+42	0.07578247545127692
+summed probability
+0.750337231022103
+------------------
+Sequence:98Position	probability
+39	0.20393980449965826
+Position	probability
+40	0.1328292147728037
+Position	probability
+37	0.12018735953372373
+Position	probability
+41	0.08651376488491822
+Position	probability
+38	0.07827992495946479
+summed probability
+0.6217500686505687
+------------------
+Sequence:99Position	probability
+40	0.6074516150830315
+Position	probability
+39	0.23316324619348683
+Position	probability
+38	0.0894970035894192
+Position	probability
+37	0.0343523852161407
+Position	probability
+36	0.013185764022357039
+summed probability
+0.9776500141044352
+------------------
+Sequence:100Position	probability
+90	0.25016024987164726
+Position	probability
+91	0.16293332064008603
+Position	probability
+92	0.10612104436426657
+Position	probability
+89	0.09602110601133934
+Position	probability
+93	0.06911831178988415
+summed probability
+0.6843540326772233
+------------------
+hit_percentage: 1.0

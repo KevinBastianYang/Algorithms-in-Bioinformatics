@@ -1,0 +1,12 @@
+reads number	group
+297	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome
+11	Psychromonas ingrahamii 37 chromosome, complete genome
+57	Sphingomonas wittichii RW1 chromosome, complete genome
+313	Roseiflexus castenholzii DSM 13941 chromosome, complete genome
+103	Hydrogenobaculum sp. Y04AAS1 chromosome, complete genome
+230	Alteromonas macleodii str. 'Deep ecotype' chromosome, complete genome
+98	Denitrovibrio acetiphilus DSM 12809 chromosome, complete genome
+5	Frankia symbiont of Datisca glomerata chromosome, complete genome
+347	Candidatus Midichloria mitochondrii IricVA chromosome, complete genome
+202	Corynebacterium variabile DSM 44702 chromosome, complete genome
+213	not assigned
