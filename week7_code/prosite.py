@@ -131,5 +131,6 @@ def main():
 			print subfix, "maybe wrong or missing, please check! "
 		else:
 			scanner(prefix,subfix,para[2])
-main()
+if __name__ == '__main__':
+	main()
 

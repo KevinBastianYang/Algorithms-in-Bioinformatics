@@ -135,7 +135,7 @@ def forward_back_post(seqs,A,S,ejec_prob,tran_prob):
 def main():
     seqs = readin()
     if seqs == -1:
-        print "Usage:python viterbi.py filename"
+        print "Usage:python biased_coins.py filename"
         return 
     elif seqs == -2:
         "Error: Too many or too less parameters"
@@ -205,7 +205,8 @@ def main():
         file.close()
        
         
-main()
+if __name__ == '__main__':
+	main()
 
 
 
