@@ -93,15 +93,25 @@ Solution
 
 (2)Posterior probability:
 To calculate the first position of the biased coin, I use the following equation to calculate this probability.
+
 ```P(𝛱𝑖−1=1,𝛱𝑖=2 |𝑥,𝜃)=𝑓1(𝑖−1)∗𝑎12∗𝑒2(𝑥𝑖)∗𝑏2(𝑖)/𝑃(𝑥)```
+
 Where
+
 ```𝛱𝑖−1=1``` means the previous state is 1 (fair coin)
+
 ```𝛱𝑖=2``` means the present state is 2 (biased coin)
+
 ```𝑓1(𝑖−1)``` is the forward probability of state 1 at position i-1
+
 ```a12``` is the transition probability from 1 to 2
+
 ```𝑒2(𝑥𝑖)``` is the ejection probability of sequence Xi at state 2
+
 ```𝑏2(𝑖)``` is the backward probability of state 2 at position i
+
 ```P(x)``` is the summed probability of sequence x.
+
 Thereafter, I firstly calculate the corresponding forward and backward probability separately, then I use the results to calculate the posterior probability of every position for each sequence.
 
 (3)Verification:
@@ -113,3 +123,4 @@ Run
 ```shell
 python biased_coin.py example
 ```
+The results will be shown accordingly.
