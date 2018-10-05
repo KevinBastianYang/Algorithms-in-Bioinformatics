@@ -89,10 +89,10 @@ probability of all five (e.g. is the probability that one of the five is right).
 
 Solution
 -------------
-(1)Viterbi: The maximum likelihood guess for which position was the first flip of the biased coin.
+(1)Viterbi: The maximum likelihood guess for which position was the first flip of the biased coin. Results are stored in ```viterbi_results.txt```
 
 (2)Posterior probability:
-To calculate the first position of the biased coin, I use the following equation to calculate this probability.
+To calculate the first position of the biased coin, I use the following equation to calculate this probability. Results are stored in ```posterior_results.txt```
 
 ```P(𝛱𝑖−1=1,𝛱𝑖=2 |𝑥,𝜃)=𝑓1(𝑖−1)∗𝑎12∗𝑒2(𝑥𝑖)∗𝑏2(𝑖)/𝑃(𝑥)```
 
